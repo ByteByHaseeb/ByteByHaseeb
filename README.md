@@ -12,7 +12,7 @@
 
 😄 Pronouns: **He/Him**
 
-⚡ Fun fact: I’m always experimenting with new tech to create unique web experiences, and I’m passionate about solving challenges with innovative solutions.
+⚡ **Fun fact:** I’m always experimenting with new tech to create unique web experiences, and I’m passionate about solving challenges with innovative solutions.
 
 <!---
 ByteByHaseeb/ByteByHaseeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
