@@ -21,7 +21,7 @@
 
 - 📫 Feel free to reach out via Github or email me at **khnhaseeb619@gmail.com**
 
-- 📄 Know about my experiences [Shopify theme development, custom Liquid coding, and frontend development with HTML, CSS, JavaScript, and React.js](Shopify theme development, custom Liquid coding, and frontend development with HTML, CSS, JavaScript, and React.js)
+- 📄 Know about my experiences Shopify theme development, custom Liquid coding, and frontend development with HTML, CSS, JavaScript, and React.js.
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code… and still love it.**
 
