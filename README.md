@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **react, vue, gsap**
 
-- 📫 How to reach me **khnhaseeb619@gmail.com**
+- 📫 Feel free to reach out via Github or email me at **khnhaseeb619@gmail.com**
 
 - 📄 Know about my experiences [Shopify theme development, custom Liquid coding, and frontend development with HTML, CSS, JavaScript, and React.js](Shopify theme development, custom Liquid coding, and frontend development with HTML, CSS, JavaScript, and React.js)
 
