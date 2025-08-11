@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [N/A](N/A)
 
-- 📝 I regularly write articles on [MERN stack development, React.js tips, and modern frontend practices](MERN stack development, React.js tips, and modern frontend practices)
+- 📝 I regularly write articles on MERN stack development, React.js tips, and modern frontend practices.
 
 - 💬 Ask me about **react, vue, gsap**
 
