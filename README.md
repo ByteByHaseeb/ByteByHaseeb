@@ -25,6 +25,21 @@
 
 - ⚡ Fun fact **I can spend hours debugging a single line of code… and still love it.**
 
+  <h3 align="left"> Proficiency </h3>
+  <h4>Frontend Development:</h4> 
+HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, jQuery, AJAX, JSON
+Responsive Web Design (Mobile-First, Cross-Browser Compatibility)
+UI/UX to Code Conversion: Figma to HTML/React, WordPress Elementor, Pixel-Perfect Design.
+
+<h4>Website Builders & CMS:</h4>
+WordPress (Theme Customization, Elementor, Plugins)
+Shopify (Custom Theme Development, Liquid Programming, Store Customization)
+Wix Studio & Duda (Custom Websites, 100% Responsive Design)
+
+<h4>JavaScript Frameworks & Libraries:</h4>
+React.js (Hooks, Components, State Management)
+GSAP, Framer Motion (Advanced Animations & Interactions)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdul haseeb" height="30" width="40" /></a>
