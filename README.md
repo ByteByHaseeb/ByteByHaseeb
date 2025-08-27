@@ -26,7 +26,7 @@
 - ⚡ Fun fact **I can spend hours debugging a single line of code… and still love it.**
 
   <h3 align="left"> Proficiency </h3>
-  <h4>Frontend Development:</h4> 
+<h4>Frontend Development:</h4> 
 HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, jQuery, AJAX, JSON
 Responsive Web Design (Mobile-First, Cross-Browser Compatibility)
 UI/UX to Code Conversion: Figma to HTML/React, WordPress Elementor, Pixel-Perfect Design.
