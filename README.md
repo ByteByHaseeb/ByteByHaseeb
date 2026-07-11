@@ -44,8 +44,8 @@ GSAP, Framer Motion (Advanced Animations & Interactions)
 <p align="left">
 <a href="https://codepen.io/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdul haseeb" height="30" width="40" /></a>
 <a href="https://dev.to/dev haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev haseeb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul haseeb" height="30" width="40" /></a>
-<a href="https://fb.com/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul haseeb" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/abdul haseeb](https://pk.linkedin.com/in/abdul-haseeb-khan-254719374?trk=people-guest_people_search-card)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul haseeb" height="30" width="40" /></a>
+<a href="[https://fb.com/abdul haseeb](https://www.facebook.com/haseeb.khn.752)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul haseeb" height="30" width="40" /></a>
 <a href="https://discord.gg/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdul haseeb" height="30" width="40" /></a>
 </p>
 
