@@ -1,65 +1,178 @@
-<h1 align="center">Hi 👋, I'm Abdul Haseeb Khan</h1>
-<h3 align="center">A passionate Frontend Web Developer specializing in responsive, high-performing, and visually engaging websites. I specialize in both custom-coded solutions using JavaScript and React, and low-code builds using Wix Studio, Shopify, WordPress, and Duda.</h3>
+# 👋 Hi, I'm Abdul Haseeb Khan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bytebyhaseeb&label=Profile%20views&color=0e75b6&style=flat" alt="bytebyhaseeb" /> </p>
+### Shopify Theme Developer | E-commerce Developer | WordPress Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img class="display: block;" src="https://github-profile-trophy.vercel.app/?username=bytebyhaseeb" alt="bytebyhaseeb" /></a> </p>
+I build **high-performing, responsive, and visually engaging websites and e-commerce experiences**. My work combines custom Shopify theme development, Liquid programming, WordPress development, and modern frontend technologies to transform designs into functional, conversion-focused websites.
 
-- 🔭 I’m currently working on **React.js**
+I specialize in building custom Shopify sections, developing responsive storefronts, converting Figma designs into pixel-perfect Shopify themes, and customizing WordPress websites with a strong focus on performance, usability, and clean code.
 
-- 🌱 I’m currently learning **Advanced React.js and Next.js to build high-performance, SEO-friendly full-stack applications.**
-
-- 👯 I’m looking to collaborate on **MERN stack projects**
-
-- 🤝 I’m looking for help with **TaskFlow**
-
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-
-- 📝 I regularly write articles on MERN stack development, React.js tips, and modern frontend practices.
-
-- 💬 Ask me about **react, vue, gsap**
-
-- 📫 Feel free to reach out via Github or email me at **khnhaseeb619@gmail.com**
-
-- 📄 Know about my experiences Shopify theme development, custom Liquid coding, and frontend development with HTML, CSS, JavaScript, and React.js.
-
-- ⚡ Fun fact **I can spend hours debugging a single line of code… and still love it.**
-
-  <h3 align="left"> Proficiency </h3>
-<h4>Frontend Development:</h4> 
-HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, jQuery, AJAX, JSON
-Responsive Web Design (Mobile-First, Cross-Browser Compatibility)
-UI/UX to Code Conversion: Figma to HTML/React, WordPress Elementor, Pixel-Perfect Design.
-
-<h4>Website Builders & CMS:</h4>
-WordPress (Theme Customization, Elementor, Plugins)
-Shopify (Custom Theme Development, Liquid Programming, Store Customization)
-Wix Studio & Duda (Custom Websites, 100% Responsive Design)
-
-<h4>JavaScript Frameworks & Libraries:</h4>
-React.js (Hooks, Components, State Management)
-GSAP, Framer Motion (Advanced Animations & Interactions)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdul haseeb" height="30" width="40" /></a>
-<a href="https://dev.to/dev haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev haseeb" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/abdul haseeb](https://pk.linkedin.com/in/abdul-haseeb-khan-254719374?trk=people-guest_people_search-card)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul haseeb" height="30" width="40" /></a>
-<a href="[https://fb.com/abdul haseeb](https://www.facebook.com/haseeb.khn.752)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul haseeb" height="30" width="40" /></a>
-<a href="https://discord.gg/abdul haseeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abdul haseeb" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bytebyhaseeb&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 What I Do
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kn_haseeb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kn_haseeb" /></a></p><br><br>
+- 🛍️ **Shopify Development:** Custom theme development, Online Store 2.0, Liquid programming, custom sections, and storefront customization.
+- 🧩 **Custom E-commerce Solutions:** Building and customizing product pages, collection layouts, navigation, cart experiences, and reusable storefront components.
+- 🎨 **Figma to Shopify:** Translating Figma designs into responsive, pixel-perfect Shopify storefronts using Liquid, HTML, CSS, and JavaScript.
+- 🌐 **WordPress Development:** Developing and customizing websites using WordPress, Elementor, WooCommerce, themes, and plugins.
+- 💻 **Frontend Development:** Creating modern, responsive interfaces with HTML5, CSS3, JavaScript, React, and Tailwind CSS.
+- ✨ **Interactive Experiences:** Implementing smooth animations, micro-interactions, and engaging interfaces with GSAP and Framer Motion.
+- 📱 **Responsive Design:** Building mobile-first experiences with cross-browser compatibility and usability in mind.
+- ⚡ **Performance & Optimization:** Improving storefront usability, code quality, responsiveness, and frontend performance.
 
+## 🛠️ Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bytebyhaseeb&show_icons=true&locale=en&layout=compact" alt="bytebyhaseeb" /></p>
+### 🛍️ Shopify & E-commerce Development
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bytebyhaseeb&show_icons=true&locale=en" alt="bytebyhaseeb" /></p>
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-0A6EBD?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/Shopify%20OS%202.0-008060?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify Online Store 2.0" />
+  <img src="https://img.shields.io/badge/E--commerce-111827?style=for-the-badge&logo=shopify&logoColor=white" alt="E-commerce" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bytebyhaseeb&" alt="bytebyhaseeb" /></p>
+- Custom Shopify theme development and customization
+- Shopify Liquid templates, objects, filters, and tags
+- Custom sections, blocks, and configurable theme settings
+- Shopify JSON templates and Online Store 2.0 architecture
+- Figma-to-Shopify theme implementation
+- Custom product pages and collection layouts
+- Product variants, metafields, and metaobjects
+- AJAX cart functionality and cart drawer customization
+- Custom navigation, mega menus, and collection sliders
+- Responsive headers, footers, promotional banners, and landing pages
+- Product cards, badges, filters, and merchandising components
+- Theme schema, section settings, and reusable Liquid components
+- Shopify theme debugging, refactoring, and performance improvements
+- Storefront UI/UX customization and conversion-focused design
+- Shopify theme development with modern JavaScript and CSS
 
+### 🌐 WordPress Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=woocommerce" alt="WooCommerce" />
+</p>
+
+- Custom WordPress website development
+- Elementor page building and customization
+- WooCommerce store development and customization
+- Theme customization and child themes
+- Custom CSS, JavaScript, and responsive layouts
+- Plugin configuration and integration
+- Landing pages, business websites, and e-commerce experiences
+- Website troubleshooting, maintenance, and optimization
+
+### 💻 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,jquery" alt="Frontend technologies" />
+</p>
+
+- HTML5, CSS3, and modern JavaScript (ES6+)
+- React.js, functional components, hooks, and reusable UI
+- Tailwind CSS, Bootstrap, Sass, and jQuery
+- AJAX, JSON, and API integration fundamentals
+- Responsive and mobile-first web development
+- Cross-browser compatibility and accessibility fundamentals
+- Component-based architecture and maintainable code
+- Figma-to-HTML and Figma-to-React implementation
+
+### 🎨 UI/UX, Design & Animation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,gsap" alt="Design and animation tools" />
+</p>
+
+- Figma design implementation
+- Pixel-perfect UI development
+- Design-to-code workflows
+- Interactive animations with GSAP
+- Motion effects with Framer Motion
+- Hover states, transitions, and micro-interactions
+- Modern layouts, typography, spacing, and visual hierarchy
+
+### ⚙️ Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm,vite" alt="Development tools" />
+</p>
+
+- Git and GitHub version control
+- VS Code and modern development workflows
+- Browser developer tools and debugging
+- AI-assisted development workflows
+- Reusable components and maintainable code practices
+- Testing, troubleshooting, and iterative improvements
+
+### 🧱 Website Builders & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Wix%20Studio-000000?style=flat-square&logo=wix&logoColor=white" alt="Wix Studio" />
+  <img src="https://img.shields.io/badge/Duda-1B1B1B?style=flat-square&logoColor=white" alt="Duda" />
+</p>
+
+## 📌 What I'm Working On
+
+- Building and improving custom Shopify storefronts.
+- Developing reusable Shopify Liquid sections and theme components.
+- Creating polished e-commerce interfaces from Figma designs.
+- Improving my React.js skills through practical projects.
+- Exploring modern frontend architecture and AI-assisted development.
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on:
+
+- Shopify theme development and e-commerce projects
+- Custom Liquid sections and storefront features
+- WordPress and WooCommerce websites
+- React.js and frontend development projects
+- Figma-to-code implementation
+- Modern, responsive website experiences
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/bytebyhaseeb">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://pk.linkedin.com/in/abdul-haseeb-khan-254719374">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khnhaseeb619@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+📩 **Email:** khnhaseeb619@gmail.com
+
+💼 **LinkedIn:** [Abdul Haseeb Khan](https://pk.linkedin.com/in/abdul-haseeb-khan-254719374)
+
+💻 **GitHub:** [@bytebyhaseeb](https://github.com/bytebyhaseeb)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bytebyhaseeb&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bytebyhaseeb&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bytebyhaseeb&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Build with purpose. Design with detail. Develop with passion.</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! Let's build something great together. 🚀
+</p>
