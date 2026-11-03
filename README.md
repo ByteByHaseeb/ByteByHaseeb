@@ -23,6 +23,41 @@ I specialize in building custom Shopify sections, developing responsive storefro
 - 📱 **Responsive Design:** Building mobile-first experiences with cross-browser compatibility and usability in mind.
 - ⚡ **Performance & Optimization:** Improving storefront usability, code quality, responsiveness, and frontend performance.
 
+---
+
+## 🌟 Featured Projects
+
+A selection of Shopify and WordPress websites I've worked on, showcasing my experience in e-commerce development, theme customization, responsive design, and frontend implementation.
+
+### 🛍️ Shopify Projects
+
+| # | Project | Live Website |
+|---|---|---|
+| 01 | Bernie's | [Visit Website](https://www.bernies.com/) |
+| 02 | Intimate Rose | [Visit Website](https://www.intimaterose.com/) |
+| 03 | Sunsy | [Visit Website](https://sunsy.co/) |
+| 04 | Noggin Brain | [Visit Website](https://nogginbrain.co.uk/products/oomph-1) |
+| 05 | My Little Infant | [Visit Website](https://www.mylittleinfant.com/products/baby-sleepwear-2) |
+| 06 | The Quirky Mouse | [Visit Website](https://thequirkymouse.com/) |
+| 07 | Grubterra | [Visit Website](https://grubterra.com/) |
+| 08 | Foxii Wellness | [Visit Website](https://foxiiwellness.com/) |
+| 09 | The Gods Creation | [Visit Website](https://thegodscreation.com/) |
+| 10 | Lewis James | [Visit Website](https://www.lewis-james.com/) |
+| 11 | Culiau | [Visit Website](https://culiau.com/) |
+
+### 🌐 WordPress Projects
+
+| # | Project | Live Website |
+|---|---|---|
+| 01 | State Life | [Visit Website](https://www.statelife.com.pk/en) |
+| 02 | Bizkarts | [Visit Website](https://bizkarts.com/) |
+| 03 | RAQ Designs | [Visit Website](https://raqdesigns.co/) |
+| 04 | Nalgene | [Visit Website](https://nalgene.com/) |
+| 05 | Landyachtz | [Visit Website](https://landyachtz.com/) |
+| 06 | Heatherwick | [Visit Website](https://heatherwick.com/) |
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 🛍️ Shopify & E-commerce Development
@@ -117,6 +152,8 @@ I specialize in building custom Shopify sections, developing responsive storefro
   <img src="https://img.shields.io/badge/Duda-1B1B1B?style=flat-square&logoColor=white" alt="Duda" />
 </p>
 
+---
+
 ## 📌 What I'm Working On
 
 - Building and improving custom Shopify storefronts.
@@ -124,6 +161,8 @@ I specialize in building custom Shopify sections, developing responsive storefro
 - Creating polished e-commerce interfaces from Figma designs.
 - Improving my React.js skills through practical projects.
 - Exploring modern frontend architecture and AI-assisted development.
+
+---
 
 ## 🤝 Collaboration
 
@@ -135,6 +174,8 @@ I'm interested in collaborating on:
 - React.js and frontend development projects
 - Figma-to-code implementation
 - Modern, responsive website experiences
+
+---
 
 ## 🌐 Connect With Me
 
@@ -155,6 +196,8 @@ I'm interested in collaborating on:
 💼 **LinkedIn:** [Abdul Haseeb Khan](https://pk.linkedin.com/in/abdul-haseeb-khan-254719374)
 
 💻 **GitHub:** [@bytebyhaseeb](https://github.com/bytebyhaseeb)
+
+---
 
 ## 📊 GitHub Statistics
 
